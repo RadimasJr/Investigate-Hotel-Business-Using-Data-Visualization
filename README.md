@@ -19,4 +19,4 @@ Data yang digunakan adalah data dari perusahaan hotel dari tahun 2017 - 2019.
 # Analisis
 **1. Analisis Jumlah Pemesanan Hotel per Bulan Berdasarkan Tipe Hotel**
 <br>
-<img src="Images/Image 1" alt="Logo" width="1000" height="auto">
+<img src="images/Image 1.png" alt="Logo" width="1000" height="auto">
