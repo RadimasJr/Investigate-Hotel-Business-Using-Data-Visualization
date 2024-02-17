@@ -17,17 +17,17 @@ Data yang digunakan adalah data dari perusahaan hotel dari tahun 2017 - 2019.
 * Terdapat value yang tidak sesuai pada fitur kategorik  "meal", value tersebut ditindaklanjuti dengan melakukan .replace dengan value yang sesuai.
 
 # Analisis
-**1. Analisis Jumlah Pemesanan Hotel per Bulan Berdasarkan Tipe Hotel**
+## **1. Analisis Jumlah Pemesanan Hotel per Bulan Berdasarkan Tipe Hotel**
 <br>
 <img src="images/Image 1.png" alt="Logo" width="1000" height="auto">
 Berdasarkan gambar plot, peningkatan jumlah pemesanan Hotel mengalami penigkatan pada dua periode yaitu bulan Mei - Juli kemudian bulan Oktober - Desember. Peningkatan tersebut terjadi karena periode waktu tersebut telah memasuki musim liburan, untuk musim liburan pertama dari Mei - Juli yaitu libur musim panas, sedangkan musim liburan kedua adalah natal dan tahun baru.
 
-**2. Analisa Pengaruh Durasi Menginap terhadap tingkat Pembatalan Pemesanan Hotel**
+## **2. Analisa Pengaruh Durasi Menginap terhadap tingkat Pembatalan Pemesanan Hotel**
 <br>
 <img src="images/Image 2.png" alt="Logo" width="1000" height="auto">
 Tingkat pembatalan pemesanan ketegori City Hotel semakin meningkat seiring dengan lama durasi menginapnya. Sedangkan untuk kategori Resort Hotel tingkat pembatalan pemesanan memiliki persentase yang tinggi pada durasi menginap selama 2-3 minggu dan 3-4 minggu.
 
-**3. Analisis Pengaruh Lead Time terhadap Tingkat Pembatalan Pemesanan Hotel**
+## **3. Analisis Pengaruh Lead Time terhadap Tingkat Pembatalan Pemesanan Hotel**
 <br>
 <img src="images/Image 3.png" alt="Logo" width="1000" height="auto">
 Tingkat pembatalan pemesanan ketegori City Hotel secara umum meningkat seiring dengan lama durasi lead time. Sedangkan untuk kategori Resort Hotel tingkat pembatalan pemesanan memiliki persentase yang tinggi pada durasi lead time selama 9 bulan dan 11 bulan, namun jika dilihat secara keseluruhan grafik Resert Hotel juga dapat dikatakan memiliki persentase tingkat pembatalan yang semakin meningkat.
