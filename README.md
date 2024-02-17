@@ -46,7 +46,6 @@ Korelasi antara lamanya durasi menginap dari seluruh rentang waktu 1 minggu samp
 * **Apakah jarak waktu antara pemesanan hotel dan hari kedatangan tamu (lead time) mempengaruhi tingkat pembatalan pemesanan hotel?**<br>
 Korelasi antara lamanya durasi lead time memiliki pengaruh terhadap tingkat pembatalan pemesanan untuk lebih spesifiknya untuk kategori City Hotel. Sedangkan untuk kategori Resort Hotel tingkat pembatalan pemesanan memiliki persentase yang tinggi pada durasi lead time selama 9 bulan dan 11 bulan, namun jika dilihat secara keseluruhan grafik Resert Hotel juga dapat dikatakan memiliki persentase tingkat pembatalan yang semakin meningkat.
 <br>
-<br>
 
 # Rekomendasi
 * Memberikan promosi terhadap City Hotel karena lebih sering dipesan oleh pelanggan, dan promosi dapat difokuskan pada musim liburan dimana jumlah pemesanan tinggi seperti Mei-Juli dan Oktober-Desember.
