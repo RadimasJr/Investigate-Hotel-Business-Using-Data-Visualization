@@ -34,12 +34,15 @@ Tingkat pembatalan pemesanan ketegori City Hotel secara umum meningkat seiring d
 
 # Kesimpulan
 * **Jenis hotel apa yang paling sering dikunjungi oleh pelanggan?**
+<br>
 Kategori "City Hotel" lebih banyak di book oleh pelanggan sebesar 66,4% dibandingkan "Resort Hotel". Peningkatan jumlah pemesanan City Hotel mengalami penigkatan pada dua periode yaitu bulan Mei - Juli kemudian bulan Oktober - Desember. Peningkatan tersebut terjadi karena periode waktu tersebut telah memasuki musim liburan.
 
 * **Apakah durasi menginap mempengaruhi tingkat pembatalan pemesanan hotel?**
+<br>
 Korelasi antara lamanya durasi menginap dari seluruh rentang waktu 1 minggu sampai lebih dari 4 minggu memiliki pengaruh terhadap tingkat pembatalan pemesanan untuk kategori City Hotel. Namun, untuk kategori Resort Hotel memiliki persentase pembatalan paling tinggi pada durasi menginap 2-4 minggu.
 
 * **Apakah jarak waktu antara pemesanan hotel dan hari kedatangan tamu (lead time) mempengaruhi tingkat pembatalan pemesanan hotel?**
+<br>
 Korelasi antara lamanya durasi lead time memiliki pengaruh terhadap tingkat pembatalan pemesanan untuk lebih spesifiknya untuk kategori City Hotel. Sedangkan untuk kategori Resort Hotel tingkat pembatalan pemesanan memiliki persentase yang tinggi pada durasi lead time selama 9 bulan dan 11 bulan, namun jika dilihat secara keseluruhan grafik Resert Hotel juga dapat dikatakan memiliki persentase tingkat pembatalan yang semakin meningkat.
 
 # Rekomendasi
